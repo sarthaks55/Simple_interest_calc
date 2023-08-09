@@ -1,1 +1,1 @@
-# insta
+# Simple Interest calc
